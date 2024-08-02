@@ -1,0 +1,1 @@
+This repository contains the practice excercises attempted while taking Programming In Python For Data Analytics And Data Science course.
